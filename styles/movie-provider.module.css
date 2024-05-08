@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+
+.logo {
+    border-radius: 10px;
+    width: 40px;
+    place-self: center;
+}
